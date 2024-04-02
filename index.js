@@ -11,7 +11,7 @@ fruits.style.listStyleType = 'none';
 
 const basketHeading = document.querySelector("#basket-heading");
 basketHeading.style.marginLeft = '30px';
-basketHeading.style.color = 'brown'; // Change color to brown
+basketHeading.style.color = 'brown'; 
 
 const fruitItems = document.querySelectorAll(".fruit");
 
